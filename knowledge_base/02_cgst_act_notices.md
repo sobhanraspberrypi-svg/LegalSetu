@@ -1,0 +1,138 @@
+# CGST Act 2017 — Key Sections on Notices and Demands (Educational Reference)
+
+**Source**: Central Goods and Services Tax Act, 2017 (Act No. 12 of 2017)
+**Published by**: Central Board of Indirect Taxes and Customs (CBIC), Government of India
+**Official URL**: https://www.cbic.gov.in/resources//htdocs-cbec/gst/CGST-act-updated.pdf
+**Last Verified**: 2026
+
+---
+
+## Section 73: Determination of Tax Not Paid or Short Paid (Non-Fraud Cases)
+
+This section applies when tax has not been paid, short paid, erroneously refunded, or input tax credit wrongly availed for reasons OTHER than fraud, willful misstatement, or suppression of facts.
+
+**Key provisions**:
+- (1) Where it appears to the proper officer that any tax has not been paid or short paid, the officer shall serve notice on the person.
+- (2) The notice shall be issued at least **three months prior** to the time limit for issuance of the order under sub-section (10).
+- (3) If the person pays the tax along with interest before service of notice, no notice shall be served.
+- (10) The order shall be issued within **three years** from the due date for furnishing of annual return.
+
+**Maximum penalty**: 10% of tax due or ₹10,000, whichever is higher.
+
+**Time to respond**: As specified in the notice, typically 30 days.
+
+---
+
+## Section 74: Determination of Tax Not Paid or Short Paid (Fraud Cases)
+
+This section applies when tax has not been paid due to **fraud, willful misstatement, or suppression of facts**.
+
+**Key provisions**:
+- (1) Notice shall be served by the proper officer.
+- (10) The order shall be issued within **five years** from the due date for furnishing of annual return.
+
+**Maximum penalty**: Equal to the tax amount (100%).
+
+**Severity**: This is a SERIOUS notice. Always engage a qualified tax professional.
+
+---
+
+## Section 122: Penalty for Certain Offences
+
+Lists 21 offences and corresponding penalties, including:
+- Supplying goods without invoice
+- Issuing invoice without supplying goods
+- Collecting tax but failing to pay to government (within 3 months)
+- Not registering when required
+- Furnishing false information
+
+**Penalty range**: ₹10,000 to amount equivalent to tax evaded, depending on offence.
+
+---
+
+## Section 132: Punishment for Certain Offences (Criminal Provisions)
+
+Lists offences that carry **imprisonment**. Examples:
+- Tax evasion exceeding ₹5 crore: Up to 5 years + fine
+- Tax evasion ₹2-5 crore: Up to 3 years + fine
+- Tax evasion ₹1-2 crore: Up to 1 year + fine
+
+**This is a criminal section**. If a notice mentions Section 132, immediate engagement of a tax lawyer (not just CA) is essential.
+
+---
+
+## Common GST Notice Types and What They Mean
+
+### Form GST ASMT-10 (Notice for Discrepancies)
+- Type: Routine scrutiny
+- Severity: 🟡 Moderate — requires response within 30 days
+- Issued under: Section 61 of CGST Act
+- What to do: Reply in Form ASMT-11 explaining the discrepancy
+
+### Form GST DRC-01 (Show Cause Notice)
+- Type: Demand notice before order
+- Severity: 🟠 Serious — formal demand
+- Issued under: Section 73 or 74
+- What to do: Reply within time specified, typically 30 days
+
+### Form GST DRC-07 (Summary of Order)
+- Type: Order after adjudication
+- Severity: 🟠 Serious — actual demand has been confirmed
+- Next step: Pay within 3 months OR file appeal within 3 months
+
+### Form GST REG-17 (Notice for Cancellation of Registration)
+- Type: Registration may be cancelled
+- Severity: 🟠 Serious — could impact business operations
+- What to do: Reply in REG-18 within 7 working days
+
+### Form GST ADT-01 (Notice for Audit)
+- Type: GST audit notification
+- Severity: 🟡 Moderate — prepare records
+- Issued under: Section 65
+
+### Form GST CMP-05 (Composition Scheme Notice)
+- Type: Show cause for composition scheme compliance
+- Severity: 🟡 Moderate
+
+---
+
+## Standard Compliance Burden for MSMEs
+
+GST returns required by most MSMEs:
+- **GSTR-1**: Monthly/Quarterly outward supplies
+- **GSTR-3B**: Monthly summary return
+- **GSTR-9**: Annual return (turnover above ₹2 crore)
+- **GSTR-9C**: Reconciliation statement (turnover above ₹5 crore)
+
+Frequent issues that lead to notices:
+1. Mismatch between GSTR-1 and GSTR-3B
+2. Mismatch between GSTR-2B and ITC claimed in GSTR-3B
+3. Non-filing of returns
+4. Late filing of returns (late fees apply)
+5. ITC claimed on ineligible items (e.g., Section 17(5) blocked credits)
+6. E-way bill non-compliance
+
+---
+
+## Important Time Limits to Remember
+
+| Action | Time Limit |
+|---|---|
+| Reply to ASMT-10 | 30 days |
+| Reply to DRC-01 (SCN) | As specified, typically 30 days |
+| File appeal against DRC-07 | 3 months |
+| Time-barring for Section 73 | 3 years from annual return due date |
+| Time-barring for Section 74 | 5 years from annual return due date |
+| Pre-deposit for appeal | 10% of disputed tax |
+
+---
+
+## Educational Note on AI-Generated Tax Advice
+
+In November 2025, the **Gujarat High Court** reprimanded a GST officer for issuing a quasi-judicial tax order containing fabricated case laws that were generated by AI. This judicial precedent establishes that AI-generated content in tax matters must be **verified against authoritative sources**. This is why this educational tool always cites the original section and recommends professional consultation — AI alone is not sufficient for tax decisions.
+
+---
+
+**Citation Format for AI Responses**:
+> Source: Section [X], CGST Act 2017
+> Verify at: https://www.cbic.gov.in/resources//htdocs-cbec/gst/CGST-act-updated.pdf
